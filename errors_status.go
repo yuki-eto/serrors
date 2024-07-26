@@ -1,4 +1,4 @@
-package errors
+package serrors
 
 import "net/http"
 
